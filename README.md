@@ -118,6 +118,7 @@ This project is structured to ensure systematic development. Each week builds up
   1. Initialize a Node.js project with Express.js.
      - **Reading:** [Express Basics](https://expressjs.com/)
      - **Video:** [Express.js Tutorial](https://www.youtube.com/watch?v=L72fhGm1tfE)
+     - **Video:** [Node.js Tutorial](https://www.youtube.com/watch?v=BLl32FvcdVM&t=1s)
   2. Configure MongoDB and create a schema for images.
      - **Reading:** [Mongoose Schema Design](https://mongoosejs.com/docs/guide.html)
      - **Video:** [Mongoose Models](https://www.youtube.com/watch?v=DZBGEVgL2eE)
@@ -135,7 +136,7 @@ This project is structured to ensure systematic development. Each week builds up
      - **Video:** [Material UI Crash Course](https://www.youtube.com/watch?v=volAze3fpt0)
   2. Implement components for image display and upload.
      - **Reading:** [React Component Design](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [React Components](https://www.youtube.com/watch?v=SdzMBWT2CDQ)
+     - **Video:** [React Components](https://www.youtube.com/watch?v=S4VH8hddg8c&t=102s)
 
 - **Deliverables:**
   - Responsive UI with placeholders for images and upload form.
@@ -150,7 +151,7 @@ This project is structured to ensure systematic development. Each week builds up
      - **Video:** [File Upload in Node.js](https://www.youtube.com/watch?v=srPXMt1Q0nY)
   2. Use Cloudinary for storing uploaded images.
      - **Reading:** [Cloudinary API](https://cloudinary.com/documentation)
-     - **Video:** [Cloudinary Integration Guide](https://www.youtube.com/watch?v=nSP_2Aq2MIQ)
+     - **Video:** [Cloudinary Integration Guide](https://www.youtube.com/watch?v=891d9kfootM)
 
 - **Deliverables:**
   - Functional image upload system with Cloudinary integration.
@@ -161,9 +162,10 @@ This project is structured to ensure systematic development. Each week builds up
 - **Goal:** Add search and filter functionality.
 - **Tasks:**
   1. Implement search bar and category filters.
-     - **Reading:** [React Search Bar](https://react.dev/reference/react-dom/components/form)
-     - **Video:** [Search in React](https://www.youtube.com/watch?v=EYpdEYK25Dc)
+     - **Reading:** [React Search Bar](https://dev.to/salehmubashar/search-bar-in-react-js-545l)
+     - **Video:** [Search in React](https://www.youtube.com/watch?v=sWVgMcz8Q44&t=15s)
   2. Fetch and display filtered images from the database.
+     - **Video:** [Filter images](https://www.youtube.com/watch?v=XScJD7IRlc8)
 
 - **Deliverables:**
   - Dynamic search and filtering capabilities.
